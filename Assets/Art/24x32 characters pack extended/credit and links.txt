@@ -1,0 +1,9 @@
+Based off 24x32 characters big pack by Svetlana Kushnariova 
+(lana-chan@yandex.ru).
+Said chacacter pack is licensed under a Creative Commons 
+Atribution 3.0 License as well a OGA-BY 3.0 license and can
+be found here:
+http://opengameart.org/content/24x32-characters-with-faces-big-pack
+
+The bases included are modified versions of these bases:
+http://opengameart.org/content/24x32-bases
