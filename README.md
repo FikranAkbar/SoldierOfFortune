@@ -10,7 +10,7 @@ Soldier Of Fortune tells the story of a mercenary or what we usually know as a m
 </p>
 
 <p align="center">
-<img src="./Assets/Sprites/Textures/logoFIX.png" width="800">
+<img src="SOF_header.jpeg">
 </p>
 
 ## Built with
@@ -18,20 +18,18 @@ Soldier Of Fortune tells the story of a mercenary or what we usually know as a m
 - [Unity](https://developer.android.com/studio/)
 - [Fmod](https://www.fmod.com/)
 - [DoTween](http://dotween.demigiant.com/)
-- [Gesture Recognizer](https://assetstore.unity.com/packages/tools/input-management/gesture-recognizer-86410)
+- [A* Pathfinding](https://arongranberg.com/astar/)
 
 ### Demo
-Splash Screen |
---- |
-<img src="splash_screen.gif"/> |
 
 Menu |
 --- |
 <img src="menu.gif"/> |
 
-Tutorial |
+Gameplay |
 --- |
-<img src="tutorial.gif"/> |
+<img src="gameplay.gif"/> |
+
 
 ## Getting Started
 
